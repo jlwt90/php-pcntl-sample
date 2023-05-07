@@ -1,0 +1,67 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "f021229192e765875dd79337560c1a17",
+    "packages": [
+        {
+            "name": "codedungeon/php-cli-colors",
+            "version": "1.12.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/mikeerickson/php-cli-colors.git",
+                "reference": "e346156f75717140a3dd622124d2ec686aa7ff8e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/mikeerickson/php-cli-colors/zipball/e346156f75717140a3dd622124d2ec686aa7ff8e",
+                "reference": "e346156f75717140a3dd622124d2ec686aa7ff8e",
+                "shasum": ""
+            },
+            "require-dev": {
+                "phpunit/phpunit": ">=5.2"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Codedungeon\\PHPCliColors\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Mike Erickson",
+                    "email": "codedungeon@gmail.com"
+                }
+            ],
+            "description": "Liven up you PHP Console Apps with standard colors",
+            "homepage": "https://github.com/mikeerickson/php-cli-colors",
+            "keywords": [
+                "color",
+                "colors",
+                "composer",
+                "package",
+                "php"
+            ],
+            "support": {
+                "issues": "https://github.com/mikeerickson/php-cli-colors/issues",
+                "source": "https://github.com/mikeerickson/php-cli-colors/tree/1.12.2"
+            },
+            "time": "2021-01-05T04:48:27+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.3.0"
+}

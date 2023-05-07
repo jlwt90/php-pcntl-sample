@@ -1,0 +1,13 @@
+{
+  "name": "jlwt90/php-pcntl-sample",
+  "description": "samples for understanding the behaviour of pcntl functions",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Jlwt90\\": "src/"
+    }
+  },
+  "require": {
+    "codedungeon/php-cli-colors": "^1.12"
+  }
+}
